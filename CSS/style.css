@@ -1,0 +1,18 @@
+h1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    transition: all 0.5s linear;
+}
+h1:hover{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-left: ;
+    font-weight: 100;
+    font-size: 25px;
+}
